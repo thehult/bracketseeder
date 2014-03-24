@@ -1,0 +1,9 @@
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\bin\Debug\BracketSeeder.exe.config
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\bin\Debug\BracketSeeder.exe
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\bin\Debug\BracketSeeder.pdb
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\obj\Debug\BracketSeeder.csprojResolveAssemblyReference.cache
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\obj\Debug\BracketSeeder.Form1.resources
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\obj\Debug\BracketSeeder.Properties.Resources.resources
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\obj\Debug\BracketSeeder.csproj.GenerateResource.Cache
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\obj\Debug\BracketSeeder.exe
+D:\Projekt\C-Sharp\BracketSeeder\BracketSeeder\obj\Debug\BracketSeeder.pdb
